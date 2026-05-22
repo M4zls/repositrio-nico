@@ -31,7 +31,7 @@ cd repositrio-nico
 
 # Iniciar servicios con Docker Compose
 docker-compose up -d
-
+x
 # Frontend (desarrollo)
 cd front_despacho
 npm install
